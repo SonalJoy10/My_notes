@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity Class – Day 2 Report
 
-📅 **Date:** [Insert Date Here]  
+📅 **Date:** [18/07/2025]  
 🎯 **Topic:** Installing Kali Linux in Oracle VirtualBox
 
 ---
