@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity Class – Day 1 Report
 
-**📅 Date:** [Insert Date Here]
+**📅 Date:** [11/07/2025]
 
 ---
 
